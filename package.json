@@ -17,8 +17,7 @@
     "express"
   ],
   "author": "Kristof Michiels",
-  "license": "ISC"
-  },
+  "license": "ISC",
   "homepage": "",
   "dependencies": {
     "ejs": "^2.5.6",
